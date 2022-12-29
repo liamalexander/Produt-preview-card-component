@@ -118,3 +118,8 @@ p {
   justify-content: center;
   margin-bottom: 10px;
 }
+
+.add-to-cart:hover {
+  transform: scale(1.02);
+  background: hsl(158, 36%, 27%);
+}
